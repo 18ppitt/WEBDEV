@@ -1,0 +1,36 @@
+
+.greytext{
+    color: lightblue;
+}
+
+.lakers{
+    background-color: beige;
+}
+.jazz{
+    text-decoration: underline;
+    text-align: center;
+    font-size: 30px;
+}
+.heat{
+    color: navy;
+    font-family: monospace;      
+}
+.mavericks{
+    color:maroon;
+    font-display: auto;
+    font-family: sans-serif
+}
+.pistons{
+    text-decoration: underline;
+    color: blue
+}
+.magic{
+    background-color: blanchedalmond;
+}
+.warriors{
+    color: lightsalmon
+}
+.byu{
+    color:blue;
+    text-decoration: underline;
+}
